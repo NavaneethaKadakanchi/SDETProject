@@ -1,3 +1,7 @@
 Welcome to git demo.
-change added by team mate for WI6 on remote master to check the pull.
-change on remote master by team mate to test fetch CR3.
+
+change: added by team mate for WI6 on remote master to check the pull.
+
+change: on remote master by team mate to test fetch for CR3.
+
+change: for bug4 on local master to test rebase with conflict.
