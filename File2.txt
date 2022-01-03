@@ -1,2 +1,3 @@
 Welcome to git demo.
 change added by team mate for WI6 on remote master to check the pull.
+change on remote master by team mate to test fetch CR3.
